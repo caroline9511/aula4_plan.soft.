@@ -1,0 +1,30 @@
+var idade = 30;
+var status = idade >=18?'adulto':'menor de idade';
+print(status);
+
+resultado:
+[?2004l
+adulto
+[?2004h
+
+
+var idade = 16;
+var status = idade >=18?'adulto':'menor de idade';
+print(status);
+
+resultado:
+[?2004l
+menor de idade
+[?2004h
+
+
+
+var palavra1='alfa';
+var palavra2='beto';
+var resultado = palavra1+palavra2;
+print(resultado);
+
+resultado:
+[?2004l
+alfabeto
+[?2004h
